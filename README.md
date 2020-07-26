@@ -31,7 +31,6 @@
 
 ----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miszo&theme=radical&hide=python,vue)
 ![Miszo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical)
 
 ----
