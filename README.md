@@ -19,7 +19,7 @@
 
 ----
 
-**Languages and Tools:**
+**Languages and Tools I enjoy working with:**
 
 <code><img height="20" src="https://github.com/miszo/miszo/raw/main/icons/javascript.svg"></code>
 <code><img height="20" src="https://github.com/miszo/miszo/raw/main/icons/typescript.svg"></code>
