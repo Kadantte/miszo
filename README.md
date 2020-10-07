@@ -37,4 +37,8 @@
 
 ----
 
-  <img align="left" alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+<img alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical" />
+
+----
+
+<img alt="Miszo's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=miszo&column=3&margin-w=15&margin-h=15&theme=dracula" />
