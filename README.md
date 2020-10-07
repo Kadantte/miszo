@@ -1,4 +1,4 @@
-### 🖖 Hello World, I'm Miszo! 
+### 🖖 Hello World, I'm Miszo!
 
 <a target="_blank" href="https://linkedin.com/in/miszoradomski/">
   <img align="left" alt="LinkedIN" width="22px" src="https://github.com/miszo/miszo/raw/main/icons/linkedin.svg" />
@@ -31,11 +31,10 @@
 
 ----
 
-![Miszo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical)
+**Spotify playing:**
+
+[<img src="https://spotify-now-playing.miszo.vercel.app/api/spotify" alt="Miszo's Spotify Playing" width="350" />](https://open.spotify.com/user/1168435518)
 
 ----
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/miszo/count.svg" />
-</p>
+  <img align="left" alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical&hide_border=true" />
