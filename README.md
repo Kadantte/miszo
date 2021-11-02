@@ -37,7 +37,7 @@
 
 ----
 
-<img alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=radical" />
+<img alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=nightowl" />
 
 ----
 
