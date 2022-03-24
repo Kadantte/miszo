@@ -26,6 +26,7 @@
 <code><img height="20" alt="React" src="https://github.com/miszo/miszo/raw/main/icons/react.svg"></code>
 <code><img height="20" alt="Next.js" src="https://github.com/miszo/miszo/raw/main/icons/next.svg"></code>
 <code><img height="20" alt="Emotion" src="https://github.com/miszo/miszo/raw/main/icons/emotion.png"></code>
+<code><img height="20" alt="Radix" src="https://github.com/miszo/miszo/raw/main/icons/radix.svg"></code>
 <code><img height="20" alt="Node" src="https://github.com/miszo/miszo/raw/main/icons/node-dot-js.svg"></code>
 <code><img height="20" alt="Jest" src="https://github.com/miszo/miszo/raw/main/icons/jest.svg"></code>
 <code><img height="20" alt="ESLint" src="https://github.com/miszo/miszo/raw/main/icons/eslint.svg"></code>
