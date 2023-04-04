@@ -10,7 +10,7 @@ While I've worked in consulting in the past, I find that my skills and experienc
 
 Outside of work, I'm a big football enthusiast, and I enjoy watching Arsenal and playing with my friends. I must admit that I don't play as much as I used to. However, I'm still a big fan and enjoy watching games whenever I can. I believe my love for football has helped me develop valuable skills like teamwork, communication, and adaptability, which have been crucial in my professional life as well.
 
-On a more personal note, in February 2023 I've discovered that I have mild ASD (Autism Spectrum Disorder). It's been a journey of self-discovery for me, but it has also helped me understand and appreciate my unique perspective and strengths.
+On a more personal note, in February 2023 I've been diagnosed with mild ASD (Autism Spectrum Disorder). It's been a journey of self-discovery for me, but it has also helped me understand and appreciate my unique perspective and strengths.
 
 Currently, I work as a Senior Software Engineer at Housecall Pro, where I develop web applications and deliver top-notch solutions. Before that, I worked with several product companies, where I had the opportunity to work on a variety of projects and build my skills as a software engineer.
 
