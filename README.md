@@ -21,8 +21,8 @@ Thanks for taking the time to read about me, and if you're interested in working
 <a target="_blank" rel="noopener noreferer" href="https://linkedin.com/in/miszoradomski/">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/miszo/miszo/raw/main/icons/linkedin.svg" />
 </a>
-<a target="_blank" rel="noopener noreferer" href="https://twitter.com/miszo_dev">
-  <img align="left" alt="X (formly known as Twitter)" width="22px" src="https://github.com/miszo/miszo/raw/main/icons/twitterx.svg" />
+<a target="_blank" rel="noopener noreferer" href="https://bsky.app/profile/miszo.dev">
+  <img align="left" alt="Bluesky" width="22px" src="https://github.com/miszo/miszo/raw/main/icons/bluesky.png" />
 </a>
 </br>
 
